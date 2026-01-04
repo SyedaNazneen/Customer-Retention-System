@@ -50,17 +50,18 @@ In this stage, I prepared the raw data for the Machine Learning model. The follo
 
 <p align="center"> <b>Project Flowchart Overview</b>
 <br>
-<img src="reports/EDA.jpg" width="450"> </p>
+<img src="EDA.jpg" width="450"> </p>
 
-* 🟢 **Target Analysis (Churn Distribution):** <p align="center"><img src="reports/churn_dist.png" width="400"></p> 
+* 🟢 **Target Analysis (Churn Distribution):** <p align="center"><img src="churn_dist.png" width="400"></p> 
   The data is imbalanced. More customers stay (0) than leave (1).
 
-* 🔵 **Numerical Data Distribution:** <p align="center"><img src="reports/Numerical_data_distribution.png" width="450"></p> 
+* 🔵 **Numerical Data Distribution:** <p align="center"><img src="Numerical_data_distribution.png" width="450"></p> 
   Analyzed the spread of Tenure and Monthly Charges.
 
-* 🟠 **Outlier Detection:** <p align="center"><img src="reports/outliers.png" width="450"></p> 
+* 🟠 **Outlier Detection:** <p align="center"><img src="outliers.png" width="450"></p> 
   Used Boxplots to ensure data quality.
 
-* 🧠 **Feature Correlation (Heatmap):** <p align="center"><img src="reports/heatmap.png" width="450"></p> 
+* 🧠 **Feature Correlation (Heatmap):** <p align="center"><img src="heatmap.png" width="450"></p> 
   * **Tenure vs. Churn (-0.35):** Longer stay = Lower churn.
   * **Monthly Charges vs. Churn (0.19):** Higher bills = Higher churn risk.
+
