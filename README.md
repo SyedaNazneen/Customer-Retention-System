@@ -3,7 +3,7 @@
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3.8+-blue.svg">
   <img src="https://img.shields.io/badge/Machine_Learning-Logistic_Regression-green.svg">
-  <img src="https://img.shields.io/badge/Status-Stage_1_Complete-orange.svg">
+  <img src="https://img.shields.io/badge/Status-Stage_1 & 2_Complete-orange.svg">
 </p>
 
 ---
@@ -116,6 +116,7 @@ I have finalized **XGBoost** for the deployment phase.
 1. Highest accuracy (79.67%).
 2. Best handling of complex, non-linear relationships in customer data.
 3. Excellent performance in minimizing False Negatives.
+
 
 
 
