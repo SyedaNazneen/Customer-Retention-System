@@ -83,7 +83,7 @@ Based on the model's coefficients and my exploratory data analysis (EDA), here a
 * **💵 Monthly Charges:** As monthly bills increase, the risk of the customer leaving also increases.
 * **📝 Contract Type:** Customers on **"Two-year"** contracts are much more stable than those on **"Month-to-month"** plans.
 
-<h2 align="center">📊 Stage 3: Model Comparison & Final Selection</h2>
+<h2 align="center">📊 Model Comparison & Final Selection</h2>
 
 To ensure the highest accuracy, I evaluated **7 different Machine Learning algorithms**. Testing diverse models allowed me to compare different mathematical approaches like Linear, Ensemble, and Boosting.
 
@@ -116,6 +116,7 @@ I have finalized **XGBoost** for the deployment phase.
 1. Highest accuracy (79.67%).
 2. Best handling of complex, non-linear relationships in customer data.
 3. Excellent performance in minimizing False Negatives.
+
 
 
 
